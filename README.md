@@ -4,3 +4,4 @@
 <a href="https://github.com/HPaulson/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpaulson&layout=compact" />
 </a>
+[Widgets ⚡ by  anuraghazra /github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
