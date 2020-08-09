@@ -1,10 +1,11 @@
-<h4 align="center"> Hunter Paulson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h4>
-<a>
-  <img align="center" src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
-  <img align="center" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
-  <img align="center" src="https://img.shields.io/badge/Favorite%20Language-TypeScript-informational?style=flat&logo=typescript&style=for-the-badge&logoColor=blue" />
-  <img align="center" src="https://img.shields.io/badge/Browser-FireFox%20Developer-informational?style=flat&logo=firefox-browser&style=for-the-badge" />
-</a>
+<h4 align="center"> Hunter Paulson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Favorite%20Language-TypeScript-informational?style=flat&logo=typescript&style=for-the-badge&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Browser-FireFox%20Developer-informational?style=flat&logo=firefox-browser&style=for-the-badge" />
+</p>
 <a>
   <img align="left" src="https://api.hpaulson.smc.wtf/api?username=HPaulson&show_icons=true?count_private=true&show_border=false&include_all_commits=true" />
 </a>
