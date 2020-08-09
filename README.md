@@ -1,4 +1,4 @@
-### Hunter Paulson
+### Hunter Paulson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue)
 ![](https://img.shields.io/badge/Browser-FireFox%20Developer-informational?style=flat&logo=firefox-browser&style=for-the-badge)
