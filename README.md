@@ -3,6 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
+   </p> <p align="center">
     <img src="https://img.shields.io/badge/Favorite%20Language-TypeScript-informational?style=flat&logo=typescript&style=for-the-badge&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Browser-FireFox%20Developer-informational?style=flat&logo=firefox-browser&style=for-the-badge" />
 </p>
