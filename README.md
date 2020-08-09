@@ -1,8 +1,5 @@
 <h1 align="center">  <img src="https://avatars3.githubusercontent.com/u/47159695?s=400&u=5ab931bb898c8ab34a7198cc96878042c22ca729&v=4" width="30px" height="30px"> Hunter Paulson</h1>
-<h3 align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Welcome!</h3>
-
 <p align="center"><br>💼 President & CTO <b><a href="https://github.com/SeismicCore">@SeismicCore</a></b><br>📖 Learning <a href="https://github.com/vuejs/"><b>@VueJS</b></a> & <a href="https://github.com/topics/entrepreneurship"><b>Entrepreneurship</b></a></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
