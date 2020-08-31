@@ -1,5 +1,5 @@
 <div><h1 align="center">  <img src="https://avatars3.githubusercontent.com/u/47159695?s=400&u=5ab931bb898c8ab34a7198cc96878042c22ca729&v=4" width="43px" height="43px"> Hunter Paulson</h1>
-  <p align="center"><b><a href="mailto:hpaulson@smc.wtf">HPaulson@smc.wtf</a></b><br>💼 President & CTO <b><a href="https://github.com/SeismicCore">@SeismicCore</a></b><br>📚 <a href="https://github.com/topics/investing"><b>Investing</b></a> & <a href="https://github.com/topics/entrepreneurship"><b>Entrepreneurship</b></a></p>
+  <p align="center"><b><a href="mailto:hpaulson@smc.wtf">HPaulson@smc.wtf</a></b><br>💼 President & CTO <b><a href="https://github.com/SeismicCore">@SeismicCore</a></b><br>📚 <a href="https://github.com/topics/networking"><b>Networking</b></a> & <a href="https://github.com/topics/entrepreneurship"><b>Entrepreneurship</b></a></p>
 <p align="center">
   <img src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
