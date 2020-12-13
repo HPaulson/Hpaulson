@@ -49,7 +49,7 @@
 </p>
 
 ## Listen Along
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=true&theme=default)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default)
 
 ## Thanks for visiting!
 ![](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
