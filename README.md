@@ -54,6 +54,6 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default)
 
 ## Thanks for visiting!
-<img height="50px" width="1500px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
+![](https://cdn.seismiccore.com/Gyl.gif)
 
 ![](https://hit.yhype.me/github/profile?user_id=47159695)
