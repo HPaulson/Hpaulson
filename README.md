@@ -38,6 +38,12 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#6](https://github.com/DenverCoder1/github-readme-streak-stats/issues/6) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#4](https://github.com/HPaulson/github-readme-stats/pull/4) in [HPaulson/github-readme-stats](https://github.com/HPaulson/github-readme-stats)
+3. 💪 Opened PR [#4](https://github.com/HPaulson/github-readme-stats/pull/4) in [HPaulson/github-readme-stats](https://github.com/HPaulson/github-readme-stats)
+4. 🎉 Merged PR [#13](https://github.com/HPaulson/CaptureShare/pull/13) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+5. 💪 Opened PR [#13](https://github.com/HPaulson/CaptureShare/pull/13) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+<!--END_SECTION:activity-->
 
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api?username=HPaulson&show_icons=true&count_private=true&hide_border=true?count_private=true&show_border=false&include_all_commits=true&theme=tokyonight)
