@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif" align="center" style="width: 100%" />
+![](https://media0.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif)
 
 # 👋 Hunter Paulson  
 <details>
