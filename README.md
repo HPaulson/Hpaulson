@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif)
+![](https://cdn.seismiccore.com/awl.jpg)
 
 # 👋 Hunter Paulson  
 <details>
