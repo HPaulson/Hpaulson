@@ -42,11 +42,10 @@
 <!--END_SECTION:activity-->
 
 ## Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HPaulson&show_icons=true&count_private=true&hide_border=true?count_private=true&show_border=false&include_all_commits=true&theme=tokyonight" align="center" /> 
-<img src="https://api.hpaulson.smc.wtf/api/wakatime/?username=HPaulson&layout=compact&hide_border=true&theme=tokyonight" align="center" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hpaulson&theme=tokyonight" alt="hpaulson" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=HPaulson&show_icons=true&count_private=true&hide_border=true?count_private=true&show_border=false&include_all_commits=true&theme=tokyonight)
+![](https://api.hpaulson.smc.wtf/api/wakatime/?username=HPaulson&layout=compact&hide_border=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hpaulson&theme=tokyonight)
+
 
 ## Listen Along
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default)
