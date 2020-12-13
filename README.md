@@ -1,12 +1,6 @@
 <img src="https://media0.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif" align="center" style="width: 100%" />
 
 # Hunter Paulson  
-<p align="left">
-  <img src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
-  <img src="https://komarev.com/ghpvc/?username=hpaulson&label=Visitors&style=flat" />
-</p>
-
 <details>
 <summary> <b>🌎 Think Diffrently.<b></summary>
 <br>
@@ -18,7 +12,13 @@
 🤝 Working with **[SeismicCore](https://SeismicCore.com)** clients  
 🔭 Currently building **[Retr0n v4.0](https://seismiccore.com/retr0n)**
 
-  ## My Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
+  <img src="https://komarev.com/ghpvc/?username=hpaulson&label=Visitors&style=flat" />
+</p>
+
+## My Skills
 <p align="left">  
 <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="55" />      
 <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="55" />    
