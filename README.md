@@ -4,7 +4,7 @@
 <details>
 <summary> <b>🌎 Think Diffrently.<b></summary>
 <br>
-<a href="http://www.youtube.com/watch?v=cpzvwkR1RYU"><img src="https://theleadertheteacher.files.wordpress.com/2014/09/crazy-enough-to-change-the-world-steve-jobs.jpg"></a>
+<a href="http://www.youtube.com/watch?v=cpzvwkR1RYU"><img src="https://cdn.seismiccore.com/TGO.jpg"></a>
 </details>
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
