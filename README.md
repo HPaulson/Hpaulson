@@ -54,6 +54,6 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default)
 
 ## Thanks for visiting!
-![](https://cdn.seismiccore.com/rG0.gif)
+![](https://cdn.seismiccore.com/7aA.gif)
 
 ![](https://hit.yhype.me/github/profile?user_id=47159695)
