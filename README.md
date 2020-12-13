@@ -36,7 +36,7 @@
 </p>  
 
 
-## Recent Activity
+## Public Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#6](https://github.com/DenverCoder1/github-readme-streak-stats/issues/6) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 2. 🎉 Merged PR [#4](https://github.com/HPaulson/github-readme-stats/pull/4) in [HPaulson/github-readme-stats](https://github.com/HPaulson/github-readme-stats)
