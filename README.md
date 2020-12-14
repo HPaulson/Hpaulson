@@ -37,11 +37,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/DenverCoder1/github-readme-streak-stats/issues/6) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#4](https://github.com/HPaulson/github-readme-stats/pull/4) in [HPaulson/github-readme-stats](https://github.com/HPaulson/github-readme-stats)
-3. 💪 Opened PR [#4](https://github.com/HPaulson/github-readme-stats/pull/4) in [HPaulson/github-readme-stats](https://github.com/HPaulson/github-readme-stats)
-4. 🎉 Merged PR [#13](https://github.com/HPaulson/CaptureShare/pull/13) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
-5. 💪 Opened PR [#13](https://github.com/HPaulson/CaptureShare/pull/13) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+1. 🗣 Commented on [#27](https://github.com/cordeno/cordeno/issues/27) in [cordeno/cordeno](https://github.com/cordeno/cordeno)
+2. 🗣 Commented on [#6](https://github.com/DenverCoder1/github-readme-streak-stats/issues/6) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Opened issue [#6](https://github.com/DenverCoder1/github-readme-streak-stats/issues/6) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#4](https://github.com/HPaulson/github-readme-stats/pull/4) in [HPaulson/github-readme-stats](https://github.com/HPaulson/github-readme-stats)
+5. 💪 Opened PR [#4](https://github.com/HPaulson/github-readme-stats/pull/4) in [HPaulson/github-readme-stats](https://github.com/HPaulson/github-readme-stats)
 <!--END_SECTION:activity-->
 
 ## Statistics
