@@ -6,6 +6,7 @@
 <br>
 <a href="http://www.youtube.com/watch?v=cpzvwkR1RYU"><img src="https://cdn.seismiccore.com/TGO.jpg"></a>
 </details>
+HAPPY NEW YEAR!!!
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 💼 President & CTO **[@SeismicCore](https://github.com/SeismicCore)**  
