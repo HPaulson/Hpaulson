@@ -11,7 +11,7 @@ HAPPY NEW YEAR!!!
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 💼 President & CTO **[@SeismicCore](https://github.com/SeismicCore)**  
 🤝 Working with **[SeismicCore](https://SeismicCore.com)** clients  
-🔭 Currently thinking of product ideas
+🔭 Currently writing design docs for product ideas
 
 <p align="left">
   <img src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
