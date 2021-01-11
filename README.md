@@ -38,11 +38,11 @@ HAPPY NEW YEAR!!!
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/beyondcoin-project/beyond-bot/issues/1) in [beyondcoin-project/beyond-bot](https://github.com/beyondcoin-project/beyond-bot)
-2. 💪 Opened PR [#1](https://github.com/beyondcoin-project/beyond-bot/pull/1) in [beyondcoin-project/beyond-bot](https://github.com/beyondcoin-project/beyond-bot)
-3. 🗣 Commented on [#12](https://github.com/BuildTheEarth/main-bot/issues/12) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+1. 🎉 Merged PR [#7](https://github.com/HPaulson/NoteKeeper/pull/7) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
+2. 🗣 Commented on [#1](https://github.com/beyondcoin-project/beyond-bot/issues/1) in [beyondcoin-project/beyond-bot](https://github.com/beyondcoin-project/beyond-bot)
+3. 💪 Opened PR [#1](https://github.com/beyondcoin-project/beyond-bot/pull/1) in [beyondcoin-project/beyond-bot](https://github.com/beyondcoin-project/beyond-bot)
 4. 🗣 Commented on [#12](https://github.com/BuildTheEarth/main-bot/issues/12) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-5. 🗣 Commented on [#27](https://github.com/cordeno/cordeno/issues/27) in [cordeno/cordeno](https://github.com/cordeno/cordeno)
+5. 🗣 Commented on [#12](https://github.com/BuildTheEarth/main-bot/issues/12) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
