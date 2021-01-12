@@ -37,11 +37,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/HPaulson/NoteKeeper/pull/7) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
-2. 🗣 Commented on [#1](https://github.com/beyondcoin-project/beyond-bot/issues/1) in [beyondcoin-project/beyond-bot](https://github.com/beyondcoin-project/beyond-bot)
-3. 💪 Opened PR [#1](https://github.com/beyondcoin-project/beyond-bot/pull/1) in [beyondcoin-project/beyond-bot](https://github.com/beyondcoin-project/beyond-bot)
-4. 🗣 Commented on [#12](https://github.com/BuildTheEarth/main-bot/issues/12) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-5. 🗣 Commented on [#12](https://github.com/BuildTheEarth/main-bot/issues/12) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+1. 🎉 Merged PR [#68](https://github.com/BuildTheEarth/main-bot/pull/68) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+2. 🎉 Merged PR [#67](https://github.com/BuildTheEarth/main-bot/pull/67) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+3. 🎉 Merged PR [#7](https://github.com/HPaulson/NoteKeeper/pull/7) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
+4. 🗣 Commented on [#1](https://github.com/beyondcoin-project/beyond-bot/issues/1) in [beyondcoin-project/beyond-bot](https://github.com/beyondcoin-project/beyond-bot)
+5. 💪 Opened PR [#1](https://github.com/beyondcoin-project/beyond-bot/pull/1) in [beyondcoin-project/beyond-bot](https://github.com/beyondcoin-project/beyond-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
