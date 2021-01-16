@@ -37,11 +37,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/BuildTheEarth/main-bot/issues/27) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+1. 🗣 Commented on [#72](https://github.com/BuildTheEarth/main-bot/issues/72) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
 2. 🗣 Commented on [#72](https://github.com/BuildTheEarth/main-bot/issues/72) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-3. ❗️ Opened issue [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
-4. 🎉 Merged PR [#68](https://github.com/BuildTheEarth/main-bot/pull/68) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-5. 🎉 Merged PR [#67](https://github.com/BuildTheEarth/main-bot/pull/67) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+3. 🗣 Commented on [#72](https://github.com/BuildTheEarth/main-bot/issues/72) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+4. 🗣 Commented on [#27](https://github.com/BuildTheEarth/main-bot/issues/27) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+5. 🗣 Commented on [#72](https://github.com/BuildTheEarth/main-bot/issues/72) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
