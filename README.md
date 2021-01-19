@@ -37,11 +37,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/HPaulson/CaptureShare/pull/14) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
-2. 🗣 Commented on [#72](https://github.com/BuildTheEarth/main-bot/issues/72) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-3. 🗣 Commented on [#72](https://github.com/BuildTheEarth/main-bot/issues/72) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+1. ❗️ Closed issue [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
+2. 🗣 Commented on [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
+3. 🎉 Merged PR [#14](https://github.com/HPaulson/CaptureShare/pull/14) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
 4. 🗣 Commented on [#72](https://github.com/BuildTheEarth/main-bot/issues/72) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-5. 🗣 Commented on [#27](https://github.com/BuildTheEarth/main-bot/issues/27) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+5. 🗣 Commented on [#72](https://github.com/BuildTheEarth/main-bot/issues/72) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
