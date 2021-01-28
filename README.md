@@ -37,11 +37,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/BuildTheEarth/main-bot/issues/82) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+1. 🎉 Merged PR [#10](https://github.com/SeismicCore/DiscordMarkupLanguage/pull/10) in [SeismicCore/DiscordMarkupLanguage](https://github.com/SeismicCore/DiscordMarkupLanguage)
 2. 🗣 Commented on [#82](https://github.com/BuildTheEarth/main-bot/issues/82) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-3. ❗️ Closed issue [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
-4. 🗣 Commented on [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
-5. 🎉 Merged PR [#14](https://github.com/HPaulson/CaptureShare/pull/14) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+3. 🗣 Commented on [#82](https://github.com/BuildTheEarth/main-bot/issues/82) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+4. ❗️ Closed issue [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
+5. 🗣 Commented on [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
 <!--END_SECTION:activity-->
 
 ## Statistics
