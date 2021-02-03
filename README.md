@@ -37,11 +37,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/SeismicCore/DiscordMarkupLanguage/pull/10) in [SeismicCore/DiscordMarkupLanguage](https://github.com/SeismicCore/DiscordMarkupLanguage)
-2. 🗣 Commented on [#82](https://github.com/BuildTheEarth/main-bot/issues/82) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-3. 🗣 Commented on [#82](https://github.com/BuildTheEarth/main-bot/issues/82) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-4. ❗️ Closed issue [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
-5. 🗣 Commented on [#99](https://github.com/norberteder/trello/issues/99) in [norberteder/trello](https://github.com/norberteder/trello)
+1. ❗️ Opened issue [#2](https://github.com/Dropheart/r-nfrealmusic-discord-bot/issues/2) in [Dropheart/r-nfrealmusic-discord-bot](https://github.com/Dropheart/r-nfrealmusic-discord-bot)
+2. 💪 Opened PR [#1](https://github.com/Dropheart/r-nfrealmusic-discord-bot/pull/1) in [Dropheart/r-nfrealmusic-discord-bot](https://github.com/Dropheart/r-nfrealmusic-discord-bot)
+3. 🎉 Merged PR [#10](https://github.com/SeismicCore/DiscordMarkupLanguage/pull/10) in [SeismicCore/DiscordMarkupLanguage](https://github.com/SeismicCore/DiscordMarkupLanguage)
+4. 🗣 Commented on [#82](https://github.com/BuildTheEarth/main-bot/issues/82) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+5. 🗣 Commented on [#82](https://github.com/BuildTheEarth/main-bot/issues/82) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
