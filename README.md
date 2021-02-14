@@ -37,11 +37,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/BuildTheEarth/statistics-bot/pull/14) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
-2. ❗️ Opened issue [#2](https://github.com/Dropheart/r-nfrealmusic-discord-bot/issues/2) in [Dropheart/r-nfrealmusic-discord-bot](https://github.com/Dropheart/r-nfrealmusic-discord-bot)
-3. 💪 Opened PR [#1](https://github.com/Dropheart/r-nfrealmusic-discord-bot/pull/1) in [Dropheart/r-nfrealmusic-discord-bot](https://github.com/Dropheart/r-nfrealmusic-discord-bot)
-4. 🎉 Merged PR [#10](https://github.com/SeismicCore/DiscordMarkupLanguage/pull/10) in [SeismicCore/DiscordMarkupLanguage](https://github.com/SeismicCore/DiscordMarkupLanguage)
-5. 🗣 Commented on [#82](https://github.com/BuildTheEarth/main-bot/issues/82) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+1. ❗️ Opened issue [#87](https://github.com/miguelmota/cointop/issues/87) in [miguelmota/cointop](https://github.com/miguelmota/cointop)
+2. ❗️ Opened issue [#86](https://github.com/miguelmota/cointop/issues/86) in [miguelmota/cointop](https://github.com/miguelmota/cointop)
+3. 🎉 Merged PR [#14](https://github.com/BuildTheEarth/statistics-bot/pull/14) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
+4. ❗️ Opened issue [#2](https://github.com/Dropheart/r-nfrealmusic-discord-bot/issues/2) in [Dropheart/r-nfrealmusic-discord-bot](https://github.com/Dropheart/r-nfrealmusic-discord-bot)
+5. 💪 Opened PR [#1](https://github.com/Dropheart/r-nfrealmusic-discord-bot/pull/1) in [Dropheart/r-nfrealmusic-discord-bot](https://github.com/Dropheart/r-nfrealmusic-discord-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
