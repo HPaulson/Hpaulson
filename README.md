@@ -2,7 +2,7 @@
 
 # 👋 Hunter Paulson  
 <details>
-<summary> <b>🌎 Think Differently.<b></summary>
+<summary> <b>🌎 Think Different.<b></summary>
 <br>
 <a href="http://www.youtube.com/watch?v=cpzvwkR1RYU"><img src="https://cdn.seismiccore.com/TGO.jpg"></a>
 </details>
