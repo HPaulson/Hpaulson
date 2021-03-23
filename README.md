@@ -1,4 +1,4 @@
-![](https://cdn.seismiccore.com/awl.jpg)
+![Banner](https://user-images.githubusercontent.com/47159695/112228380-9b1d9900-8c07-11eb-90b8-8280a6a8fa88.png)
 
 # 👋 Hunter Paulson  
 <details>
