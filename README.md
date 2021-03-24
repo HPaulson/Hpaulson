@@ -53,6 +53,9 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default)
 
 ## Thanks for visiting!
-![](https://cdn.seismiccore.com/7aA.gif)
+<img align="left" height="100px" width="100px" src="https://user-images.githubusercontent.com/47159695/112367221-07ec6e00-8cb0-11eb-8fa5-65696f10fac4.png" alt="SeismicCore" height="55" /> **Hunter Paulson**  
+**President | SeismicCore, LLC**  
+[**HPaulson@SeismicCore.com**](mailto:HPaulson@SeismicCore.com)  
+[**SeismicCore.com**](https://SeismicCore.com)  
 
 ![](https://hit.yhype.me/github/profile?user_id=47159695)
