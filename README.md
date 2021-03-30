@@ -44,11 +44,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/BuildTheEarth/main-bot/pull/130) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-2. 🎉 Merged PR [#35](https://github.com/BuildTheEarth/statistics-bot/pull/35) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
-3. 🎉 Merged PR [#24](https://github.com/BuildTheEarth/statistics-bot/pull/24) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
-4. 🎉 Merged PR [#106](https://github.com/BuildTheEarth/main-bot/pull/106) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-5. ❗️ Opened issue [#87](https://github.com/miguelmota/cointop/issues/87) in [miguelmota/cointop](https://github.com/miguelmota/cointop)
+1. ❗️ Closed issue [#1](https://github.com/HPaulson/BitClout-API-Docs/issues/1) in [HPaulson/BitClout-API-Docs](https://github.com/HPaulson/BitClout-API-Docs)
+2. 🗣 Commented on [#1](https://github.com/HPaulson/BitClout-API-Docs/issues/1) in [HPaulson/BitClout-API-Docs](https://github.com/HPaulson/BitClout-API-Docs)
+3. 🎉 Merged PR [#130](https://github.com/BuildTheEarth/main-bot/pull/130) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+4. 🎉 Merged PR [#35](https://github.com/BuildTheEarth/statistics-bot/pull/35) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
+5. 🎉 Merged PR [#24](https://github.com/BuildTheEarth/statistics-bot/pull/24) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
