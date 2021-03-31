@@ -44,11 +44,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/HPaulson/BitClout-API-Docs/issues/1) in [HPaulson/BitClout-API-Docs](https://github.com/HPaulson/BitClout-API-Docs)
-2. 🗣 Commented on [#1](https://github.com/HPaulson/BitClout-API-Docs/issues/1) in [HPaulson/BitClout-API-Docs](https://github.com/HPaulson/BitClout-API-Docs)
-3. 🎉 Merged PR [#130](https://github.com/BuildTheEarth/main-bot/pull/130) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
-4. 🎉 Merged PR [#35](https://github.com/BuildTheEarth/statistics-bot/pull/35) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
-5. 🎉 Merged PR [#24](https://github.com/BuildTheEarth/statistics-bot/pull/24) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
+1. 🗣 Commented on [#24](https://github.com/saresend/selenium-rs/issues/24) in [saresend/selenium-rs](https://github.com/saresend/selenium-rs)
+2. ❗️ Closed issue [#1](https://github.com/HPaulson/BitClout-API-Docs/issues/1) in [HPaulson/BitClout-API-Docs](https://github.com/HPaulson/BitClout-API-Docs)
+3. 🗣 Commented on [#1](https://github.com/HPaulson/BitClout-API-Docs/issues/1) in [HPaulson/BitClout-API-Docs](https://github.com/HPaulson/BitClout-API-Docs)
+4. 🎉 Merged PR [#130](https://github.com/BuildTheEarth/main-bot/pull/130) in [BuildTheEarth/main-bot](https://github.com/BuildTheEarth/main-bot)
+5. 🎉 Merged PR [#35](https://github.com/BuildTheEarth/statistics-bot/pull/35) in [BuildTheEarth/statistics-bot](https://github.com/BuildTheEarth/statistics-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
