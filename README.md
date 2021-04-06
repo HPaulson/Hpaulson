@@ -12,7 +12,7 @@
 🤝 Releasing the new **[SeismicCore](https://SeismicCore.com)** website  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/System-Ubuntu%2020.04-informational?style=flat&logo=linux&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine-Ubuntu%2020.10-informational?style=flat&logo=linux&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
   <img src="https://komarev.com/ghpvc/?username=hpaulson&label=Visitors&style=flat" />
 </p>
