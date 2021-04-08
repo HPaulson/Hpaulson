@@ -44,11 +44,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/HPaulson/BitClout/pull/2) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-2. 🎉 Merged PR [#16](https://github.com/HPaulson/CaptureShare/pull/16) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
-3. 🎉 Merged PR [#9](https://github.com/HPaulson/NoteKeeper/pull/9) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
-4. 🎉 Merged PR [#15](https://github.com/HPaulson/CaptureShare/pull/15) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
-5. 🗣 Commented on [#24](https://github.com/saresend/selenium-rs/issues/24) in [saresend/selenium-rs](https://github.com/saresend/selenium-rs)
+1. ❗️ Closed issue [#3](https://github.com/HPaulson/BitClout/issues/3) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
+2. 🗣 Commented on [#3](https://github.com/HPaulson/BitClout/issues/3) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
+3. 🎉 Merged PR [#2](https://github.com/HPaulson/BitClout/pull/2) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
+4. 🎉 Merged PR [#16](https://github.com/HPaulson/CaptureShare/pull/16) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+5. 🎉 Merged PR [#9](https://github.com/HPaulson/NoteKeeper/pull/9) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
 <!--END_SECTION:activity-->
 
 ## Statistics
