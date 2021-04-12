@@ -44,11 +44,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/HPaulson/BitClout/issues/4) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-2. ❗️ Closed issue [#3](https://github.com/HPaulson/BitClout/issues/3) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-3. 🗣 Commented on [#3](https://github.com/HPaulson/BitClout/issues/3) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-4. 🎉 Merged PR [#2](https://github.com/HPaulson/BitClout/pull/2) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-5. 🎉 Merged PR [#16](https://github.com/HPaulson/CaptureShare/pull/16) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+1. 🗣 Commented on [#13](https://github.com/scottstirling/bitclout/issues/13) in [scottstirling/bitclout](https://github.com/scottstirling/bitclout)
+2. ❗️ Closed issue [#4](https://github.com/HPaulson/BitClout/issues/4) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
+3. ❗️ Closed issue [#3](https://github.com/HPaulson/BitClout/issues/3) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
+4. 🗣 Commented on [#3](https://github.com/HPaulson/BitClout/issues/3) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
+5. 🎉 Merged PR [#2](https://github.com/HPaulson/BitClout/pull/2) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
 <!--END_SECTION:activity-->
 
 ## Statistics
