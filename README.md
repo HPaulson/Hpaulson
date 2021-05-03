@@ -9,7 +9,7 @@
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 💼 President **[@SeismicCore, LLC](https://github.com/SeismicCore)**  
-🤝 Releasing the new **[SeismicCore](https://SeismicCore.com)** website  
+🤝 Building [BitClout](https://bitclout.com) Projects  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine-Ubuntu%2020.10-informational?style=flat&logo=linux&style=for-the-badge" />
