@@ -43,11 +43,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/HPaulson/BitClout/pull/11) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-2. ❗️ Closed issue [#10](https://github.com/HPaulson/BitClout/issues/10) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-3. 🎉 Merged PR [#9](https://github.com/HPaulson/BitClout/pull/9) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-4. 🗣 Commented on [#9](https://github.com/HPaulson/BitClout/issues/9) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-5. 🗣 Commented on [#2](https://github.com/bitclout/desktop/issues/2) in [bitclout/desktop](https://github.com/bitclout/desktop)
+1. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
+2. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
+3. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
+4. 🎉 Merged PR [#11](https://github.com/HPaulson/BitClout/pull/11) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
+5. ❗️ Closed issue [#10](https://github.com/HPaulson/BitClout/issues/10) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
 <!--END_SECTION:activity-->
 
 ## Statistics
