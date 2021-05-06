@@ -43,8 +43,8 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/bitclout/frontend/pull/31) in [bitclout/frontend](https://github.com/bitclout/frontend)
-2. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
+1. ❗️ Opened issue [#32](https://github.com/bitclout/frontend/issues/32) in [bitclout/frontend](https://github.com/bitclout/frontend)
+2. 💪 Opened PR [#31](https://github.com/bitclout/frontend/pull/31) in [bitclout/frontend](https://github.com/bitclout/frontend)
 3. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
 4. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
 5. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
