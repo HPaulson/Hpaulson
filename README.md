@@ -43,11 +43,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/bitclout/frontend/issues/32) in [bitclout/frontend](https://github.com/bitclout/frontend)
-2. 💪 Opened PR [#31](https://github.com/bitclout/frontend/pull/31) in [bitclout/frontend](https://github.com/bitclout/frontend)
-3. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
-4. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
-5. 🗣 Commented on [#9](https://github.com/bitclout/identity/issues/9) in [bitclout/identity](https://github.com/bitclout/identity)
+1. 🎉 Merged PR [#12](https://github.com/HPaulson/NoteKeeper/pull/12) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
+2. 🎉 Merged PR [#19](https://github.com/HPaulson/CaptureShare/pull/19) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+3. 🎉 Merged PR [#13](https://github.com/HPaulson/NoteKeeper/pull/13) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
+4. 🎉 Merged PR [#20](https://github.com/HPaulson/CaptureShare/pull/20) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+5. ❗️ Opened issue [#32](https://github.com/bitclout/frontend/issues/32) in [bitclout/frontend](https://github.com/bitclout/frontend)
 <!--END_SECTION:activity-->
 
 ## Statistics
