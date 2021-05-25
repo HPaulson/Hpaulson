@@ -64,5 +64,6 @@
 **President | SeismicCore, LLC**  
 [**HPaulson@SeismicCore.com**](mailto:HPaulson@SeismicCore.com)  
 [**SeismicCore.com**](https://SeismicCore.com)  
+[HPaulson.crypto](http://hpaulson.crypto) (₿, Ξ, Ł, Ð)
 
 ![](https://hit.yhype.me/github/profile?user_id=47159695)
