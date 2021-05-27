@@ -43,11 +43,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/HPaulson/CaptureShare/pull/21) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
-2. 🎉 Merged PR [#14](https://github.com/HPaulson/NoteKeeper/pull/14) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
-3. 🎉 Merged PR [#12](https://github.com/HPaulson/NoteKeeper/pull/12) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
-4. 🎉 Merged PR [#19](https://github.com/HPaulson/CaptureShare/pull/19) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
-5. 🎉 Merged PR [#13](https://github.com/HPaulson/NoteKeeper/pull/13) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
+1. 🎉 Merged PR [#15](https://github.com/HPaulson/NoteKeeper/pull/15) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
+2. 🎉 Merged PR [#8](https://github.com/HPaulson/NoteKeeper/pull/8) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
+3. 🎉 Merged PR [#22](https://github.com/HPaulson/CaptureShare/pull/22) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+4. 🎉 Merged PR [#21](https://github.com/HPaulson/CaptureShare/pull/21) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+5. 🎉 Merged PR [#14](https://github.com/HPaulson/NoteKeeper/pull/14) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
 <!--END_SECTION:activity-->
 
 ## Statistics
