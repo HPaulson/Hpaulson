@@ -43,11 +43,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/HPaulson/BitClout/pull/13) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-2. 🎉 Merged PR [#1](https://github.com/HPaulson/frontend/pull/1) in [HPaulson/frontend](https://github.com/HPaulson/frontend)
-3. 🎉 Merged PR [#15](https://github.com/HPaulson/NoteKeeper/pull/15) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
-4. 🎉 Merged PR [#8](https://github.com/HPaulson/NoteKeeper/pull/8) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
-5. 🎉 Merged PR [#22](https://github.com/HPaulson/CaptureShare/pull/22) in [HPaulson/CaptureShare](https://github.com/HPaulson/CaptureShare)
+1. 🗣 Commented on [#26](https://github.com/bitclout/core/issues/26) in [bitclout/core](https://github.com/bitclout/core)
+2. 🗣 Commented on [#26](https://github.com/bitclout/core/issues/26) in [bitclout/core](https://github.com/bitclout/core)
+3. 🎉 Merged PR [#13](https://github.com/HPaulson/BitClout/pull/13) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
+4. 🎉 Merged PR [#1](https://github.com/HPaulson/frontend/pull/1) in [HPaulson/frontend](https://github.com/HPaulson/frontend)
+5. 🎉 Merged PR [#15](https://github.com/HPaulson/NoteKeeper/pull/15) in [HPaulson/NoteKeeper](https://github.com/HPaulson/NoteKeeper)
 <!--END_SECTION:activity-->
 
 ## Statistics
