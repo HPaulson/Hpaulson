@@ -46,8 +46,8 @@
 1. 🗣 Commented on [#26](https://github.com/bitclout/core/issues/26) in [bitclout/core](https://github.com/bitclout/core)
 2. 🗣 Commented on [#26](https://github.com/bitclout/core/issues/26) in [bitclout/core](https://github.com/bitclout/core)
 3. 🗣 Commented on [#26](https://github.com/bitclout/core/issues/26) in [bitclout/core](https://github.com/bitclout/core)
-4. 🎉 Merged PR [#13](https://github.com/HPaulson/BitClout/pull/13) in [HPaulson/BitClout](https://github.com/HPaulson/BitClout)
-5. 🎉 Merged PR [#1](https://github.com/HPaulson/frontend/pull/1) in [HPaulson/frontend](https://github.com/HPaulson/frontend)
+4. 🗣 Commented on [#26](https://github.com/bitclout/core/issues/26) in [bitclout/core](https://github.com/bitclout/core)
+5. 🗣 Commented on [#26](https://github.com/bitclout/core/issues/26) in [bitclout/core](https://github.com/bitclout/core)
 <!--END_SECTION:activity-->
 
 ## Statistics
