@@ -7,9 +7,10 @@
 <a href="http://www.youtube.com/watch?v=cpzvwkR1RYU"><img src="https://cdn.seismiccore.com/TGO.jpg"></a>
 </details>
 
-📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
+📧 **[HPaulson@Prism.Red](mailto:hpaulson@Prism.Red)**  
+💼 Co-Founder **[Prism Web3, Inc.](https://github.com/PrismWeb3)**  
 💼 President **[@SeismicCore, LLC](https://github.com/SeismicCore)**  
-🤝 Building [BitClout](https://bitclout.com) Projects  
+🤝 Building [Prism](https://github.com/PrismWeb3)  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine-Ubuntu%2020.10-informational?style=flat&logo=linux&style=for-the-badge" />
