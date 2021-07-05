@@ -8,8 +8,8 @@
 </details>
 
 📧 **[HPaulson@Prism.Red](mailto:hpaulson@Prism.Red)**  
-💼 Co-Founder **[Prism Web3, Inc.](https://github.com/PrismWeb3)**  
-💼 President **[@SeismicCore, LLC](https://github.com/SeismicCore)**  
+💼 Co-Founder, **[Prism Web3, Inc.](https://github.com/PrismWeb3)**  
+💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 🤝 Building [Prism](https://github.com/PrismWeb3)  
 
 <p align="left">
