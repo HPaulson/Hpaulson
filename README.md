@@ -64,11 +64,6 @@
 
 ## Thanks for visiting!
 
-**Hunter Paulson**  
-**President | SeismicCore, LLC**  
-**Co-Founder | Prism Web3, Inc.**  
-[**HPaulson@Prism.Red**](mailto:HPaulson@Prism.Red)  
-[**@HPaulson**](https://bitclout.com/u/HPaulson)  
 [HPaulson.crypto](http://hpaulson.crypto) (₿, Ξ, Ł, Ð)
 
 ![](https://hit.yhype.me/github/profile?user_id=47159695)
