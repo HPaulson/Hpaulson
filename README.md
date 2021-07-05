@@ -1,4 +1,6 @@
-![Banner](https://user-images.githubusercontent.com/47159695/112228380-9b1d9900-8c07-11eb-90b8-8280a6a8fa88.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47159695/124520965-03aa1380-ddbc-11eb-9730-65d3c3241c55.png" />
+</p>
 
 # 👋 Hunter Paulson  
 <details>
