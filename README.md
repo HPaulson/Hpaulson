@@ -46,11 +46,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/bitclout/core/issues/32) in [bitclout/core](https://github.com/bitclout/core)
-2. 🗣 Commented on [#32](https://github.com/bitclout/core/issues/32) in [bitclout/core](https://github.com/bitclout/core)
-3. ❗️ Opened issue [#1](https://github.com/bitclout/cips/issues/1) in [bitclout/cips](https://github.com/bitclout/cips)
-4. 💪 Opened PR [#18](https://github.com/bitclout/docs/pull/18) in [bitclout/docs](https://github.com/bitclout/docs)
-5. 🗣 Commented on [#32](https://github.com/bitclout/core/issues/32) in [bitclout/core](https://github.com/bitclout/core)
+1. 🗣 Commented on [#1](https://github.com/HPaulson/Bitclout-node-test/issues/1) in [HPaulson/Bitclout-node-test](https://github.com/HPaulson/Bitclout-node-test)
+2. ❗️ Closed issue [#32](https://github.com/bitclout/core/issues/32) in [bitclout/core](https://github.com/bitclout/core)
+3. 🗣 Commented on [#32](https://github.com/bitclout/core/issues/32) in [bitclout/core](https://github.com/bitclout/core)
+4. ❗️ Opened issue [#1](https://github.com/bitclout/cips/issues/1) in [bitclout/cips](https://github.com/bitclout/cips)
+5. 💪 Opened PR [#18](https://github.com/bitclout/docs/pull/18) in [bitclout/docs](https://github.com/bitclout/docs)
 <!--END_SECTION:activity-->
 
 ## Statistics
