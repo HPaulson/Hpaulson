@@ -13,6 +13,7 @@
 💼 Co-Founder & CEO, **[Prism Web3, Inc.](https://github.com/PrismWeb3)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 🤝 Building [Prism](https://bitclout.com/u/PrismWeb3)  
+📚 Learning [Nim](https://github.com/topics/nim)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine-Ubuntu%2020.10-informational?style=flat&logo=linux&style=for-the-badge" />
