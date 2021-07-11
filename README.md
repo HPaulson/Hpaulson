@@ -10,7 +10,7 @@
 </details>
 
 📧 **[HPaulson@Prism.Red](mailto:hpaulson@Prism.Red)**  
-💼 Co-Founder & CEO, **[Prism Web3, Inc.](https://github.com/PrismWeb3)**  
+💼 Co-Founder, **[Prism Web3, Inc.](https://github.com/PrismWeb3)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 🤝 Building [Prism](https://bitclout.com/u/PrismWeb3)  
 📚 Learning [Nim](https://github.com/topics/nim)
