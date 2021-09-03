@@ -47,11 +47,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/bitclout/run/issues/75) in [bitclout/run](https://github.com/bitclout/run)
+1. 🗣 Commented on [#130](https://github.com/bitclout/backend/issues/130) in [bitclout/backend](https://github.com/bitclout/backend)
 2. 🗣 Commented on [#75](https://github.com/bitclout/run/issues/75) in [bitclout/run](https://github.com/bitclout/run)
-3. 🗣 Commented on [#17](https://github.com/bitclout/cips/issues/17) in [bitclout/cips](https://github.com/bitclout/cips)
-4. 🗣 Commented on [#1](https://github.com/HPaulson/Bitclout-node-test/issues/1) in [HPaulson/Bitclout-node-test](https://github.com/HPaulson/Bitclout-node-test)
-5. ❗️ Closed issue [#32](https://github.com/bitclout/core/issues/32) in [bitclout/core](https://github.com/bitclout/core)
+3. 🗣 Commented on [#75](https://github.com/bitclout/run/issues/75) in [bitclout/run](https://github.com/bitclout/run)
+4. 🗣 Commented on [#17](https://github.com/bitclout/cips/issues/17) in [bitclout/cips](https://github.com/bitclout/cips)
+5. 🗣 Commented on [#1](https://github.com/HPaulson/Bitclout-node-test/issues/1) in [HPaulson/Bitclout-node-test](https://github.com/HPaulson/Bitclout-node-test)
 <!--END_SECTION:activity-->
 
 ## Statistics
