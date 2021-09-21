@@ -47,11 +47,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/bitclout/backend/issues/130) in [bitclout/backend](https://github.com/bitclout/backend)
-2. 🗣 Commented on [#75](https://github.com/bitclout/run/issues/75) in [bitclout/run](https://github.com/bitclout/run)
+1. 🗣 Commented on [#145](https://github.com/deso-protocol/backend/issues/145) in [deso-protocol/backend](https://github.com/deso-protocol/backend)
+2. 🗣 Commented on [#130](https://github.com/bitclout/backend/issues/130) in [bitclout/backend](https://github.com/bitclout/backend)
 3. 🗣 Commented on [#75](https://github.com/bitclout/run/issues/75) in [bitclout/run](https://github.com/bitclout/run)
-4. 🗣 Commented on [#17](https://github.com/bitclout/cips/issues/17) in [bitclout/cips](https://github.com/bitclout/cips)
-5. 🗣 Commented on [#1](https://github.com/HPaulson/Bitclout-node-test/issues/1) in [HPaulson/Bitclout-node-test](https://github.com/HPaulson/Bitclout-node-test)
+4. 🗣 Commented on [#75](https://github.com/bitclout/run/issues/75) in [bitclout/run](https://github.com/bitclout/run)
+5. 🗣 Commented on [#17](https://github.com/bitclout/cips/issues/17) in [bitclout/cips](https://github.com/bitclout/cips)
 <!--END_SECTION:activity-->
 
 ## Statistics
