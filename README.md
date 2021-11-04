@@ -47,10 +47,10 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/deso-protocol/core/pull/129) in [deso-protocol/core](https://github.com/deso-protocol/core)
-2. 🗣 Commented on [#145](https://github.com/deso-protocol/backend/issues/145) in [deso-protocol/backend](https://github.com/deso-protocol/backend)
-3. 🗣 Commented on [#130](https://github.com/bitclout/backend/issues/130) in [bitclout/backend](https://github.com/bitclout/backend)
-4. 🗣 Commented on [#75](https://github.com/bitclout/run/issues/75) in [bitclout/run](https://github.com/bitclout/run)
+1. 🗣 Commented on [#129](https://github.com/deso-protocol/core/issues/129) in [deso-protocol/core](https://github.com/deso-protocol/core)
+2. 💪 Opened PR [#129](https://github.com/deso-protocol/core/pull/129) in [deso-protocol/core](https://github.com/deso-protocol/core)
+3. 🗣 Commented on [#145](https://github.com/deso-protocol/backend/issues/145) in [deso-protocol/backend](https://github.com/deso-protocol/backend)
+4. 🗣 Commented on [#130](https://github.com/bitclout/backend/issues/130) in [bitclout/backend](https://github.com/bitclout/backend)
 5. 🗣 Commented on [#75](https://github.com/bitclout/run/issues/75) in [bitclout/run](https://github.com/bitclout/run)
 <!--END_SECTION:activity-->
 
