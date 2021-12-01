@@ -47,11 +47,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/marlon-montgomery/frontend/pull/7) in [marlon-montgomery/frontend](https://github.com/marlon-montgomery/frontend)
-2. 💪 Opened PR [#149](https://github.com/deso-protocol/core/pull/149) in [deso-protocol/core](https://github.com/deso-protocol/core)
-3. 💪 Opened PR [#3](https://github.com/marlon-montgomery/frontend/pull/3) in [marlon-montgomery/frontend](https://github.com/marlon-montgomery/frontend)
-4. 💪 Opened PR [#1](https://github.com/marlon-montgomery/frontend/pull/1) in [marlon-montgomery/frontend](https://github.com/marlon-montgomery/frontend)
-5. 🗣 Commented on [#129](https://github.com/deso-protocol/core/issues/129) in [deso-protocol/core](https://github.com/deso-protocol/core)
+1. 🗣 Commented on [#172](https://github.com/deso-protocol/dips/issues/172) in [deso-protocol/dips](https://github.com/deso-protocol/dips)
+2. 💪 Opened PR [#7](https://github.com/marlon-montgomery/frontend/pull/7) in [marlon-montgomery/frontend](https://github.com/marlon-montgomery/frontend)
+3. 💪 Opened PR [#149](https://github.com/deso-protocol/core/pull/149) in [deso-protocol/core](https://github.com/deso-protocol/core)
+4. 💪 Opened PR [#3](https://github.com/marlon-montgomery/frontend/pull/3) in [marlon-montgomery/frontend](https://github.com/marlon-montgomery/frontend)
+5. 💪 Opened PR [#1](https://github.com/marlon-montgomery/frontend/pull/1) in [marlon-montgomery/frontend](https://github.com/marlon-montgomery/frontend)
 <!--END_SECTION:activity-->
 
 ## Statistics
