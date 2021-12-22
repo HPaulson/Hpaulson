@@ -47,11 +47,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/koalatbooks/koala-t-frontend/pull/1) in [koalatbooks/koala-t-frontend](https://github.com/koalatbooks/koala-t-frontend)
-2. 💪 Opened PR [#151](https://github.com/deso-protocol/core/pull/151) in [deso-protocol/core](https://github.com/deso-protocol/core)
-3. 🗣 Commented on [#172](https://github.com/deso-protocol/dips/issues/172) in [deso-protocol/dips](https://github.com/deso-protocol/dips)
-4. 💪 Opened PR [#7](https://github.com/marlon-montgomery/frontend/pull/7) in [marlon-montgomery/frontend](https://github.com/marlon-montgomery/frontend)
-5. 💪 Opened PR [#149](https://github.com/deso-protocol/core/pull/149) in [deso-protocol/core](https://github.com/deso-protocol/core)
+1. 💪 Opened PR [#109](https://github.com/diamond-app/frontend/pull/109) in [diamond-app/frontend](https://github.com/diamond-app/frontend)
+2. 💪 Opened PR [#1](https://github.com/koalatbooks/koala-t-frontend/pull/1) in [koalatbooks/koala-t-frontend](https://github.com/koalatbooks/koala-t-frontend)
+3. 💪 Opened PR [#151](https://github.com/deso-protocol/core/pull/151) in [deso-protocol/core](https://github.com/deso-protocol/core)
+4. 🗣 Commented on [#172](https://github.com/deso-protocol/dips/issues/172) in [deso-protocol/dips](https://github.com/deso-protocol/dips)
+5. 💪 Opened PR [#7](https://github.com/marlon-montgomery/frontend/pull/7) in [marlon-montgomery/frontend](https://github.com/marlon-montgomery/frontend)
 <!--END_SECTION:activity-->
 
 ## Statistics
