@@ -47,11 +47,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3070](https://github.com/expo/expo-cli/issues/3070) in [expo/expo-cli](https://github.com/expo/expo-cli)
-2. 💪 Opened PR [#109](https://github.com/diamond-app/frontend/pull/109) in [diamond-app/frontend](https://github.com/diamond-app/frontend)
-3. 💪 Opened PR [#1](https://github.com/koalatbooks/koala-t-frontend/pull/1) in [koalatbooks/koala-t-frontend](https://github.com/koalatbooks/koala-t-frontend)
-4. 💪 Opened PR [#151](https://github.com/deso-protocol/core/pull/151) in [deso-protocol/core](https://github.com/deso-protocol/core)
-5. 🗣 Commented on [#172](https://github.com/deso-protocol/dips/issues/172) in [deso-protocol/dips](https://github.com/deso-protocol/dips)
+1. 🗣 Commented on [#189](https://github.com/deso-protocol/dips/issues/189) in [deso-protocol/dips](https://github.com/deso-protocol/dips)
+2. 🗣 Commented on [#3070](https://github.com/expo/expo-cli/issues/3070) in [expo/expo-cli](https://github.com/expo/expo-cli)
+3. 💪 Opened PR [#109](https://github.com/diamond-app/frontend/pull/109) in [diamond-app/frontend](https://github.com/diamond-app/frontend)
+4. 💪 Opened PR [#1](https://github.com/koalatbooks/koala-t-frontend/pull/1) in [koalatbooks/koala-t-frontend](https://github.com/koalatbooks/koala-t-frontend)
+5. 💪 Opened PR [#151](https://github.com/deso-protocol/core/pull/151) in [deso-protocol/core](https://github.com/deso-protocol/core)
 <!--END_SECTION:activity-->
 
 ## Statistics
