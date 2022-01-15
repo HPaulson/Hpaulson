@@ -47,11 +47,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#410](https://github.com/oakserver/oak/issues/410) in [oakserver/oak](https://github.com/oakserver/oak)
-2. 🗣 Commented on [#189](https://github.com/deso-protocol/dips/issues/189) in [deso-protocol/dips](https://github.com/deso-protocol/dips)
-3. 🗣 Commented on [#3070](https://github.com/expo/expo-cli/issues/3070) in [expo/expo-cli](https://github.com/expo/expo-cli)
-4. 💪 Opened PR [#109](https://github.com/diamond-app/frontend/pull/109) in [diamond-app/frontend](https://github.com/diamond-app/frontend)
-5. 💪 Opened PR [#1](https://github.com/koalatbooks/koala-t-frontend/pull/1) in [koalatbooks/koala-t-frontend](https://github.com/koalatbooks/koala-t-frontend)
+1. ❗️ Opened issue [#42](https://github.com/invisal/god_crypto/issues/42) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
+2. ❗️ Opened issue [#41](https://github.com/invisal/god_crypto/issues/41) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
+3. 🗣 Commented on [#410](https://github.com/oakserver/oak/issues/410) in [oakserver/oak](https://github.com/oakserver/oak)
+4. 🗣 Commented on [#189](https://github.com/deso-protocol/dips/issues/189) in [deso-protocol/dips](https://github.com/deso-protocol/dips)
+5. 🗣 Commented on [#3070](https://github.com/expo/expo-cli/issues/3070) in [expo/expo-cli](https://github.com/expo/expo-cli)
 <!--END_SECTION:activity-->
 
 ## Statistics
