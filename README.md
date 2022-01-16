@@ -46,11 +46,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/invisal/god_crypto/issues/42) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
-2. ❗️ Opened issue [#41](https://github.com/invisal/god_crypto/issues/41) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
-3. 🗣 Commented on [#410](https://github.com/oakserver/oak/issues/410) in [oakserver/oak](https://github.com/oakserver/oak)
-4. 🗣 Commented on [#189](https://github.com/deso-protocol/dips/issues/189) in [deso-protocol/dips](https://github.com/deso-protocol/dips)
-5. 🗣 Commented on [#3070](https://github.com/expo/expo-cli/issues/3070) in [expo/expo-cli](https://github.com/expo/expo-cli)
+1. 🎉 Merged PR [#1](https://github.com/HPaulson/Deso-Smart-Service/pull/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+2. 🗣 Commented on [#1](https://github.com/HPaulson/Deso-Smart-Service/issues/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+3. ❗️ Opened issue [#42](https://github.com/invisal/god_crypto/issues/42) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
+4. ❗️ Opened issue [#41](https://github.com/invisal/god_crypto/issues/41) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
+5. 🗣 Commented on [#410](https://github.com/oakserver/oak/issues/410) in [oakserver/oak](https://github.com/oakserver/oak)
 <!--END_SECTION:activity-->
 
 ## Statistics
