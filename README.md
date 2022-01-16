@@ -46,11 +46,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HPaulson/Deso-Smart-Service/pull/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
-2. 🗣 Commented on [#1](https://github.com/HPaulson/Deso-Smart-Service/issues/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
-3. ❗️ Opened issue [#42](https://github.com/invisal/god_crypto/issues/42) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
-4. ❗️ Opened issue [#41](https://github.com/invisal/god_crypto/issues/41) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
-5. 🗣 Commented on [#410](https://github.com/oakserver/oak/issues/410) in [oakserver/oak](https://github.com/oakserver/oak)
+1. 🎉 Merged PR [#2](https://github.com/HPaulson/Deso-Smart-Service/pull/2) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+2. 🗣 Commented on [#2](https://github.com/HPaulson/Deso-Smart-Service/issues/2) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+3. 🎉 Merged PR [#1](https://github.com/HPaulson/Deso-Smart-Service/pull/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+4. 🗣 Commented on [#1](https://github.com/HPaulson/Deso-Smart-Service/issues/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+5. ❗️ Opened issue [#42](https://github.com/invisal/god_crypto/issues/42) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
 <!--END_SECTION:activity-->
 
 ## Statistics
