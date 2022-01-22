@@ -65,5 +65,7 @@
 ## Thanks for visiting!
 
 [HPaulson.crypto](http://hpaulson.crypto) (₿, Ξ, Ł, Ð)
+[HPaulson.wallet](http://hpaulson.crypto) (₿, Ξ)
+[HPaulson.eth](https://opensea.io/HPaulson_) (₿, Ξ)
 
 ![](https://hit.yhype.me/github/profile?user_id=47159695)
