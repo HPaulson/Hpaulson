@@ -46,11 +46,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/amitaymolko/react-native-rsa-native/issues/80) in [amitaymolko/react-native-rsa-native](https://github.com/amitaymolko/react-native-rsa-native)
-2. 🎉 Merged PR [#2](https://github.com/HPaulson/Deso-Smart-Service/pull/2) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
-3. 🗣 Commented on [#2](https://github.com/HPaulson/Deso-Smart-Service/issues/2) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
-4. 🎉 Merged PR [#1](https://github.com/HPaulson/Deso-Smart-Service/pull/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
-5. 🗣 Commented on [#1](https://github.com/HPaulson/Deso-Smart-Service/issues/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+1. ❗️ Opened issue [#12](https://github.com/webview-crypto/webview-crypto/issues/12) in [webview-crypto/webview-crypto](https://github.com/webview-crypto/webview-crypto)
+2. 🗣 Commented on [#80](https://github.com/amitaymolko/react-native-rsa-native/issues/80) in [amitaymolko/react-native-rsa-native](https://github.com/amitaymolko/react-native-rsa-native)
+3. 🎉 Merged PR [#2](https://github.com/HPaulson/Deso-Smart-Service/pull/2) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+4. 🗣 Commented on [#2](https://github.com/HPaulson/Deso-Smart-Service/issues/2) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
+5. 🎉 Merged PR [#1](https://github.com/HPaulson/Deso-Smart-Service/pull/1) in [HPaulson/Deso-Smart-Service](https://github.com/HPaulson/Deso-Smart-Service)
 <!--END_SECTION:activity-->
 
 ## Statistics
