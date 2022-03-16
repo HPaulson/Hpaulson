@@ -47,10 +47,10 @@
 ## Public Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#260](https://github.com/deso-protocol/core/issues/260) in [deso-protocol/core](https://github.com/deso-protocol/core)
-2. 💪 Opened PR [#260](https://github.com/deso-protocol/core/pull/260) in [deso-protocol/core](https://github.com/deso-protocol/core)
-3. 🎉 Merged PR [#1](https://github.com/HPaulson/deffy-deno/pull/1) in [HPaulson/deffy-deno](https://github.com/HPaulson/deffy-deno)
-4. 🗣 Commented on [#1](https://github.com/HPaulson/deffy-deno/issues/1) in [HPaulson/deffy-deno](https://github.com/HPaulson/deffy-deno)
-5. ❗️ Opened issue [#12](https://github.com/webview-crypto/webview-crypto/issues/12) in [webview-crypto/webview-crypto](https://github.com/webview-crypto/webview-crypto)
+2. 🗣 Commented on [#260](https://github.com/deso-protocol/core/issues/260) in [deso-protocol/core](https://github.com/deso-protocol/core)
+3. 💪 Opened PR [#260](https://github.com/deso-protocol/core/pull/260) in [deso-protocol/core](https://github.com/deso-protocol/core)
+4. 🎉 Merged PR [#1](https://github.com/HPaulson/deffy-deno/pull/1) in [HPaulson/deffy-deno](https://github.com/HPaulson/deffy-deno)
+5. 🗣 Commented on [#1](https://github.com/HPaulson/deffy-deno/issues/1) in [HPaulson/deffy-deno](https://github.com/HPaulson/deffy-deno)
 <!--END_SECTION:activity-->
 
 ## Statistics
