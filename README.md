@@ -46,10 +46,10 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Mousai-on-DESO/frontend/pull/1) in [Mousai-on-DESO/frontend](https://github.com/Mousai-on-DESO/frontend)
-2. 🗣 Commented on [#118](https://github.com/deso-protocol/identity/issues/118) in [deso-protocol/identity](https://github.com/deso-protocol/identity)
-3. 🗣 Commented on [#12](https://github.com/webview-crypto/webview-crypto/issues/12) in [webview-crypto/webview-crypto](https://github.com/webview-crypto/webview-crypto)
-4. 🗣 Commented on [#260](https://github.com/deso-protocol/core/issues/260) in [deso-protocol/core](https://github.com/deso-protocol/core)
+1. 💪 Opened PR [#54](https://github.com/deso-protocol/docs/pull/54) in [deso-protocol/docs](https://github.com/deso-protocol/docs)
+2. 💪 Opened PR [#1](https://github.com/Mousai-on-DESO/frontend/pull/1) in [Mousai-on-DESO/frontend](https://github.com/Mousai-on-DESO/frontend)
+3. 🗣 Commented on [#118](https://github.com/deso-protocol/identity/issues/118) in [deso-protocol/identity](https://github.com/deso-protocol/identity)
+4. 🗣 Commented on [#12](https://github.com/webview-crypto/webview-crypto/issues/12) in [webview-crypto/webview-crypto](https://github.com/webview-crypto/webview-crypto)
 5. 🗣 Commented on [#260](https://github.com/deso-protocol/core/issues/260) in [deso-protocol/core](https://github.com/deso-protocol/core)
 <!--END_SECTION:activity-->
 
