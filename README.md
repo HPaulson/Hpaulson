@@ -45,11 +45,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#367](https://github.com/deso-protocol/core/pull/367) in [deso-protocol/core](https://github.com/deso-protocol/core)
-2. 🗣 Commented on [#54](https://github.com/deso-protocol/docs/issues/54) in [deso-protocol/docs](https://github.com/deso-protocol/docs)
-3. 💪 Opened PR [#54](https://github.com/deso-protocol/docs/pull/54) in [deso-protocol/docs](https://github.com/deso-protocol/docs)
-4. 💪 Opened PR [#1](https://github.com/Mousai-on-DESO/frontend/pull/1) in [Mousai-on-DESO/frontend](https://github.com/Mousai-on-DESO/frontend)
-5. 🗣 Commented on [#118](https://github.com/deso-protocol/identity/issues/118) in [deso-protocol/identity](https://github.com/deso-protocol/identity)
+1. 💪 Opened PR [#2](https://github.com/lydo-lang/lydo-bootstrap/pull/2) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
+2. ❌ Closed PR [#1](https://github.com/lydo-lang/lydo-bootstrap/pull/1) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
+3. 💪 Opened PR [#1](https://github.com/lydo-lang/lydo-bootstrap/pull/1) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
+4. 💪 Opened PR [#367](https://github.com/deso-protocol/core/pull/367) in [deso-protocol/core](https://github.com/deso-protocol/core)
+5. 🗣 Commented on [#54](https://github.com/deso-protocol/docs/issues/54) in [deso-protocol/docs](https://github.com/deso-protocol/docs)
 <!--END_SECTION:activity-->
 
 ## Statistics
