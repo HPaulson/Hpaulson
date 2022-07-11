@@ -45,11 +45,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/lydo-lang/lydo-bootstrap/issues/2) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
-2. 💪 Opened PR [#2](https://github.com/lydo-lang/lydo-bootstrap/pull/2) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
-3. ❌ Closed PR [#1](https://github.com/lydo-lang/lydo-bootstrap/pull/1) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
-4. 💪 Opened PR [#1](https://github.com/lydo-lang/lydo-bootstrap/pull/1) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
-5. 💪 Opened PR [#367](https://github.com/deso-protocol/core/pull/367) in [deso-protocol/core](https://github.com/deso-protocol/core)
+1. 🎉 Merged PR [#2](https://github.com/lydo-lang/lydo-bootstrap/pull/2) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
+2. 🗣 Commented on [#2](https://github.com/lydo-lang/lydo-bootstrap/issues/2) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
+3. 💪 Opened PR [#2](https://github.com/lydo-lang/lydo-bootstrap/pull/2) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
+4. ❌ Closed PR [#1](https://github.com/lydo-lang/lydo-bootstrap/pull/1) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
+5. 💪 Opened PR [#1](https://github.com/lydo-lang/lydo-bootstrap/pull/1) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
 <!--END_SECTION:activity-->
 
 ## Statistics
