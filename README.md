@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/47159695/124520965-03aa1380-ddbc-11eb-9730-65d3c3241c55.png" />
 </p>
 
-# 👋 Hunter Paulson  
+# Hunter Paulson  
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 👨‍💻 Core Team, **[Lydo Language](https://github.com/lydo-lang)**  
