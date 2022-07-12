@@ -8,7 +8,7 @@
 👨‍💻 Core Team, **[Lydo Language](https://github.com/lydo-lang)**  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine-Macbook Pro M1-informational?style=flat&logo=apple&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine-M1 Macbook Pro-informational?style=flat&logo=apple&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
   <img src="https://komarev.com/ghpvc/?username=hpaulson&label=Visitors&style=flat" />
 </p>
