@@ -13,11 +13,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#567](https://github.com/denoland/fresh/pull/567) in [denoland/fresh](https://github.com/denoland/fresh)
-2. 🎉 Merged PR [#1](https://github.com/lydo-lang/lydo-vsc/pull/1) in [lydo-lang/lydo-vsc](https://github.com/lydo-lang/lydo-vsc)
-3. 💪 Opened PR [#1](https://github.com/lydo-lang/lydo-vsc/pull/1) in [lydo-lang/lydo-vsc](https://github.com/lydo-lang/lydo-vsc)
-4. 🎉 Merged PR [#4](https://github.com/lydo-lang/lydo-bootstrap/pull/4) in [lydo-lang/lydo-bootstrap](https://github.com/lydo-lang/lydo-bootstrap)
-5. ❗️ Opened issue [#15199](https://github.com/denoland/deno/issues/15199) in [denoland/deno](https://github.com/denoland/deno)
+1. ❌ Closed PR [#1184](https://github.com/rust-lang/rustlings/pull/1184) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+2. 🗣 Commented on [#1184](https://github.com/rust-lang/rustlings/issues/1184) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+3. 💪 Opened PR [#1184](https://github.com/rust-lang/rustlings/pull/1184) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+4. 💪 Opened PR [#567](https://github.com/denoland/fresh/pull/567) in [denoland/fresh](https://github.com/denoland/fresh)
+5. 🎉 Merged PR [#1](https://github.com/lydo-lang/lydo-vsc/pull/1) in [lydo-lang/lydo-vsc](https://github.com/lydo-lang/lydo-vsc)
 <!--END_SECTION:activity-->
 
 ## Statistics
