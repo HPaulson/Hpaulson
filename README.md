@@ -14,10 +14,10 @@
 ## Public Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#304](https://github.com/wakatime/vscode-wakatime/issues/304) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-2. ❗️ Opened issue [#304](https://github.com/wakatime/vscode-wakatime/issues/304) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-3. ❌ Closed PR [#1184](https://github.com/rust-lang/rustlings/pull/1184) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-4. 🗣 Commented on [#1184](https://github.com/rust-lang/rustlings/issues/1184) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-5. 💪 Opened PR [#1184](https://github.com/rust-lang/rustlings/pull/1184) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+2. 🗣 Commented on [#304](https://github.com/wakatime/vscode-wakatime/issues/304) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+3. ❗️ Opened issue [#304](https://github.com/wakatime/vscode-wakatime/issues/304) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+4. ❌ Closed PR [#1184](https://github.com/rust-lang/rustlings/pull/1184) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+5. 🗣 Commented on [#1184](https://github.com/rust-lang/rustlings/issues/1184) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 <!--END_SECTION:activity-->
 
 ## Statistics
