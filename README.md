@@ -7,7 +7,7 @@
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
-👨‍💻 Core Team, **[Lydo Language](https://github.com/lydo-lang)**  
+👨‍💻 Core Team, **[MTL](https://github.com/mtl-lang)**  
 
 </td></tr></table> 
 
