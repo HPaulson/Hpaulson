@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/47159695/124520965-03aa1380-ddbc-11eb-9730-65d3c3241c55.png" />
-</p>
-
 # Hunter Paulson  
 [![Contact me on Codementor](https://www.codementor.io/m-badges/hpaulson/book-session.svg)](https://www.codementor.io/@hpaulson?refer=badge)
 
