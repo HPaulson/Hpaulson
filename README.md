@@ -1,9 +1,7 @@
 # Hunter Paulson  
-[![Contact me on Codementor](https://www.codementor.io/m-badges/hpaulson/book-session.svg)](https://www.codementor.io/@hpaulson?refer=badge)
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
-👨‍💻 Core Team, **[MTL](https://github.com/mtl-lang)**  
 
 </td></tr></table> 
 
@@ -22,13 +20,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hpaulson&theme=tokyonight&hide_border=true)
 
 
-## Listen Along
+## Listrning
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default)
 
 ## Thanks for visiting!
 
 [HPaulson.crypto](http://hpaulson.crypto) (₿, Ξ, Ł, Ð)</br>
 [HPaulson.eth](https://opensea.io/HPaulson_) (₿, Ξ)</br>
-[HPaulson.wallet](http://hpaulson.crypto) (₿, Ξ)
-
-![](https://hit.yhype.me/github/profile?user_id=47159695)
+[HPaulson.wallet](http://hpaulson.wallet) (₿, Ξ)<br>
