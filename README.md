@@ -25,5 +25,4 @@
 
 ## Thanks for visiting!
 
-[Keybase](https://keybase.io/HPaulson)</br>
-[HPaulson.eth](https://opensea.io/HPaulson_)
+[Keybase](https://keybase.io/HPaulson) - [HPaulson.eth](https://opensea.io/HPaulson_)
