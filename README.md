@@ -20,11 +20,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hpaulson&theme=tokyonight&hide_border=true)
 
 
-## Listrning
+## Listening
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default)
 
 ## Thanks for visiting!
 
-[HPaulson.crypto](http://hpaulson.crypto) (₿, Ξ, Ł, Ð)</br>
-[HPaulson.eth](https://opensea.io/HPaulson_) (₿, Ξ)</br>
-[HPaulson.wallet](http://hpaulson.wallet) (₿, Ξ)<br>
+[Keybase](https://keybase.io/HPaulson)</br>
+[HPaulson.eth](https://opensea.io/HPaulson_)
