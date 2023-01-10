@@ -15,7 +15,7 @@
 <!--END_SECTION:activity-->
 
 ## Statistics
-![](https://github-readme-stats.vercel.app/api?username=HPaulson&show_icons=true&count_private=true&hide_border=true?count_private=true&show_border=false&include_all_commits=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=HPaulson&show_icons=true&count_private=true&hide_border=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/wakatime/?username=HPaulson&layout=compact&hide_border=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hpaulson&theme=tokyonight&hide_border=true)
 
