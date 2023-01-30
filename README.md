@@ -1,6 +1,5 @@
 # Hunter Paulson  
 
-
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 
