@@ -7,7 +7,7 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15199](https://github.com/denoland/deno/issues/15199) in [denoland/deno](https://github.com/denoland/deno)
+1. 💪 Opened PR [#2804](https://github.com/open-telemetry/opentelemetry.io/pull/2804) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 2. 🗣 Commented on [#15199](https://github.com/denoland/deno/issues/15199) in [denoland/deno](https://github.com/denoland/deno)
 3. ❗️ Opened issue [#256](https://github.com/colbsa/UnamiLodge.org/issues/256) in [colbsa/UnamiLodge.org](https://github.com/colbsa/UnamiLodge.org)
 4. 🗣 Commented on [#304](https://github.com/wakatime/vscode-wakatime/issues/304) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
