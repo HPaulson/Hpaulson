@@ -7,11 +7,11 @@
 
 ## Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2804](https://github.com/open-telemetry/opentelemetry.io/pull/2804) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-2. 🗣 Commented on [#15199](https://github.com/denoland/deno/issues/15199) in [denoland/deno](https://github.com/denoland/deno)
-3. ❗️ Opened issue [#256](https://github.com/colbsa/UnamiLodge.org/issues/256) in [colbsa/UnamiLodge.org](https://github.com/colbsa/UnamiLodge.org)
-4. 🗣 Commented on [#304](https://github.com/wakatime/vscode-wakatime/issues/304) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-5. 🗣 Commented on [#304](https://github.com/wakatime/vscode-wakatime/issues/304) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+1. 🔒 Closed issue [#42](https://github.com/invisal/god_crypto/issues/42) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
+2. 🔒 Closed issue [#41](https://github.com/invisal/god_crypto/issues/41) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
+3. 🔒 Closed issue [#86](https://github.com/cointop-sh/cointop/issues/86) in [cointop-sh/cointop](https://github.com/cointop-sh/cointop)
+4. 🔒 Closed issue [#86](https://github.com/cointop-sh/cointop/issues/86) in [cointop-sh/cointop](https://github.com/cointop-sh/cointop)
+5. 🔒 Closed issue [#2](https://github.com/Dropheart/r-nfrealmusic-discord-bot/issues/2) in [Dropheart/r-nfrealmusic-discord-bot](https://github.com/Dropheart/r-nfrealmusic-discord-bot)
 <!--END_SECTION:activity-->
 
 ## Statistics
