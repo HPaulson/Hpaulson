@@ -2,6 +2,7 @@
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
+📚 Computer Engineering, **[Villanova University](https://villanova.edu)**  
 
 </td></tr></table> 
 
