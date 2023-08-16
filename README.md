@@ -16,9 +16,9 @@
 <!--END_SECTION:activity-->
 
 ## Statistics
-![](https://github-readme-stats.vercel.app/api?username=HPaulson&show_icons=true&count_private=true&hide_border=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/wakatime/?username=HPaulson&layout=compact&hide_border=true&theme=tokyonight&custom_title=All%20Time%20Stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hpaulson&theme=tokyonight&hide_border=true)
+[![](https://github-readme-stats.vercel.app/api?username=HPaulson&show_icons=true&count_private=true&hide_border=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime/?username=HPaulson&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=hpaulson&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 ## Listening
