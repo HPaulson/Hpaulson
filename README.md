@@ -1,8 +1,9 @@
 # Hunter Paulson  
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
-💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 📚 Computer Engineering, **[Villanova University](https://villanova.edu)**  
+👨‍💻 Full-Stack DevOps Engineer, **[Potluck Action](https://www.potluckaction.com)**  
+💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 
 </td></tr></table> 
 
