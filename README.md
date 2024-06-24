@@ -23,7 +23,7 @@
 
 
 ## Listening
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default&interchange=true)
 
 ## Thanks for visiting!
 
