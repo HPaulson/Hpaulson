@@ -2,7 +2,7 @@
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
 📚 Computer Engineering, **[Villanova University](https://villanova.edu)**  
-👨‍💻 Full-Stack & DevOps, **[Potluck Action](https://www.potluckaction.com)**  
+👨‍💻 Full-Stack & SysAdmin, **[Potluck Action](https://www.potluckaction.com)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 
 </td></tr></table> 
