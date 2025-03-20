@@ -5,16 +5,6 @@
 👨‍💻 Full-Stack & SysAdmin, **[Potluck Action](https://www.potluckaction.com)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 
-</td></tr></table> 
-
-## Public Activity
-<!--START_SECTION:activity-->
-1. 🚀 Published release [Simple Build](https://github.com/HPaulson/Deno-Loadbalanced/releases/tag/1) in [HPaulson/Deno-Loadbalanced](https://github.com/HPaulson/Deno-Loadbalanced)
-2. 💪 Opened PR [#4003](https://github.com/open-telemetry/opentelemetry-js/pull/4003) in [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)
-3. 🔒 Closed issue [#41](https://github.com/invisal/god_crypto/issues/41) in [invisal/god_crypto](https://github.com/invisal/god_crypto)
-4. 🔒 Closed issue [#86](https://github.com/cointop-sh/cointop/issues/86) in [cointop-sh/cointop](https://github.com/cointop-sh/cointop)
-5. 🔒 Closed issue [#86](https://github.com/cointop-sh/cointop/issues/86) in [cointop-sh/cointop](https://github.com/cointop-sh/cointop)
-<!--END_SECTION:activity-->
 
 ## Statistics
 [![](https://github-readme-stats-1-2s0ke72bn-hpaulson.vercel.app/api?username=HPaulson&show_icons=true&count_private=true&hide_border=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
