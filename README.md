@@ -1,7 +1,7 @@
 # Hunter Paulson  
 
 📧 **[HPaulson@SeismicCore.com](mailto:hpaulson@SeismicCore.com)**  
-📚 Computer Engineering & [[Humanities]](https://www1.villanova.edu/university/liberal-arts-sciences/programs/humanities/guiding-principles/purpose.html), **[Villanova University](https://villanova.edu)**  
+📚 Computer Engineering & [Humanities](https://www1.villanova.edu/university/liberal-arts-sciences/programs/humanities/guiding-principles/purpose.html), **[Villanova University](https://villanova.edu)**  
 👨‍💻 Full-Stack & SysAdmin, **[Potluck Action](https://www.potluckaction.com)**  
 💼 President, **[SeismicCore, LLC](https://github.com/SeismicCore)**  
 
