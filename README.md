@@ -10,10 +10,6 @@
 [![](https://github-readme-stats-1-2s0ke72bn-hpaulson.vercel.app/api/wakatime/?username=HPaulson&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=hpaulson&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
-## Listening
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ys0l6wuhmcwstj71cegoht8qy&cover_image=false&theme=default&interchange=true)
-
 ## Thanks for visiting!
 
 [Keybase](https://keybase.io/HPaulson) - [HPaulson.eth](https://opensea.io/HPaulson_)
